@@ -1,0 +1,14 @@
+{
+    "meses": ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"],
+    "semana": ["lunes", "martes", "miercoles", "jueves", "viernes", "sabado", "domingo"],
+    "alimentos": ["uva", "papas", "pan", "manzana", "pera", "choclo", "cebolla", "jugo", "leche"],
+    "animales": ["perro", "gato", "caballo", "tigre", "leon"],
+    "colores": ["blanco", "negro", "rojo", "azul", "verde"],
+    "escuela": ["alumno", "profesor", "libro", "lapiz"],
+    "estaciones": ["verano", "invierno", "primavera", "otoño"],
+    "familia": ["papa", "mama", "hijo", "hermano", "abuelo"],
+    "hogar": ["casa", "comedor", "dormitorio", "cocina", "baño"],
+    "interrogativos": ["cuanto", "quien", "donde", "que", "como"],
+    "sentimientos": ["amor", "feliz", "triste", "alegre", "preocupado"],
+    "transporte": ["auto", "taxi", "micro", "tren", "bicicleta"]
+}
