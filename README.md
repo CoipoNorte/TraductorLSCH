@@ -1,5 +1,7 @@
 # TraductorLSCH
 
+Se deben agregar los archivos faltantes, descargar en: [Agregar](https://drive.google.com/drive/folders/1ykTdOzF-5ngR8akmiIK3XVB0t7rQ9kWI?usp=drive_link)
+
 # Enlaces complementarios
 
 - [Github Topicos LSCH](https://github.com/CoipoNorte/Topicos-LSCH)
